@@ -7,7 +7,7 @@ eureka:
 ---
 spring:
   profiles: subject
-words: I,You,He,She,It,John,Jan
+words: You,He,She,It,John,Jan
 
 ---
 spring:
@@ -17,7 +17,7 @@ words: ran,knew,had,saw,bought
 ---
 spring:
   profiles: article
-words: a,the
+words: a,the,an
 
 ---
 spring:
